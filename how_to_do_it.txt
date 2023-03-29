@@ -1,0 +1,19 @@
+Beecrowd | 1038 : Snack
+
+1 =>	We need to make X as a variable an  int from 1 to 5 ;
+2 =>	We need to put for every number  a price :
+	1  =>	R$ 4.00
+	2  =>	R$ 4.50
+	3  =>	R$ 5.00
+	4  =>	R$ 2.00
+	5  =>	R$ 1.50
+
+3 => 	Then we need new variable  Y it should read quantity of the  items  X;
+4 =>	Now we should make the math formla witch is ; 
+	Amount = X * Y ;
+	
+5 =>	print Amount as  2 didits after the decimal points :
+	Total: R$ $Amount  
+
+	
+
